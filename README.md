@@ -1,4 +1,4 @@
-# set [![CircleCI](https://circleci.com/gh/rocketbitz/env/tree/master.svg?style=svg)](https://circleci.com/gh/rocketbitz/env/tree/master)
+# env [![CircleCI](https://circleci.com/gh/rocketbitz/env/tree/master.svg?style=svg)](https://circleci.com/gh/rocketbitz/env/tree/master)
 an easier to use environment variable package for gophers
 
 # installation
